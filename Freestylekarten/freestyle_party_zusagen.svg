@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="945" viewBox="0 0 55.0 80.0">
+  <defs>
+    <style type="text/css">
+      .border { fill: none; stroke: #e67e22; stroke-width: 2.8; }
+      .title  { font: 700 6.0px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .content{ font: 400 3.6px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .footer { font: 600 4.2px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .divider{ stroke: #D6DCE6; stroke-width: 0.3; }
+      .muted  { fill: #E6EAF2; }
+    </style>
+  </defs>
+
+  
+  <rect x="1.4" y="1.4" width="52.2" height="77.2" rx="1.6" ry="1.6" class="border" />
+
+  
+  <g transform="translate(3.8,3.8) scale(0.77)">
+    
+    <text x="30.5" y="7" text-anchor="middle" class="title">&#127881; Party zusagen</text>
+
+    <line x1="0" y1="14" x2="61" y2="14" class="divider" />
+
+    
+    <text x="0" y="26" class="content">
+      <tspan x="30.5" dy="0" text-anchor="middle">&#220;berzeuge dein Gegen&#252;ber,</tspan><tspan x="30.5" dy="5" text-anchor="middle">zu einer Party mitzukommen.</tspan></text>
+
+    
+    <line x1="0" y1="44" x2="61" y2="44" class="divider" style="opacity:0.5" />
+    <text x="0" y="61" class="content" style="font-size:3.4px;">
+      <tspan x="0" dy="0" style="font-weight:700">Rundenablauf (kurz):</tspan>
+    </text>
+    <text x="0" y="61" class="content" style="font-size:2.8px;">
+      <tspan x="0" dy="0" style="font-weight:700" />
+      <tspan x="0" dy="4.2">&#8226; Beide ziehen je eine Haltungskarte (&#129426;/&#128058;).</tspan>
+      <tspan x="0" dy="4.2">&#8226; Empf&#228;nger*in zieht eine Empf&#228;ngerkarte.</tspan>
+      <tspan x="0" dy="4.2">&#8226; Karten pro Runde neu ziehen. Ende bei Erfolg.</tspan>
+    </text>
+
+    
+    <line x1="0" y1="84" x2="61" y2="84" class="divider" />
+    <text x="30.5" y="91" text-anchor="middle" class="footer">Freestyle</text>
+  </g>
+</svg>

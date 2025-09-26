@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="945" viewBox="0 0 55.0 80.0">
+  <defs>
+    <style type="text/css">
+      .border { fill: none; stroke: #7f8c8d; stroke-width: 2.8; }
+      .title  { font: 700 4.0px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .subtitle { font: 600 2.6px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .content{ font: 400 2.0px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .section{ font: 600 2.8px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .num    { font-weight: 700; }
+      .footer { font: 600 4.2px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .divider{ stroke: #D6DCE6; stroke-width: 0.28; }
+      .muted  { fill: #E6EAF2; }
+    </style>
+  </defs>
+
+  <rect x="1.4" y="1.4" width="52.2" height="77.2" rx="1.6" ry="1.6" class="border" />
+
+  <g transform="translate(3.8,3.8) scale(0.77)">
+
+    <text x="30.5" y="5.8" text-anchor="middle" class="title">📗 Grundprinzip</text>
+    <text x="30.5" y="10.2" text-anchor="middle" class="subtitle">So funktioniert eine Runde</text>
+
+    <line x1="0" y1="13.5" x2="61" y2="13.5" class="divider" />
+
+    <!-- Schritte -->
+    <text x="2" y="20.5" class="content">
+      <tspan class="num">1.</tspan><tspan> Senden: Eine Person zieht eine </tspan>
+      <tspan x="4" dy="4">Senderkarte 📨 und äußert/zeigt einen Satz.</tspan>
+    </text>
+
+    <text x="2" y="29.5" class="content">
+      <tspan class="num">2.</tspan><tspan> Empfangen: Eine andere Person zieht</tspan>
+      <tspan x="4" dy="4">eine Empfängerkarte 👂 (Sache, Selbst-,</tspan>
+      <tspan x="4" dy="4">Beziehungs-, Appell-Ohr) und reagiert.</tspan>
+    </text>
+
+    <text x="2" y="41.5" class="content">
+      <tspan class="num">3.</tspan><tspan> Optional: Eine Haltungskarte 🎭 (Giraffe/</tspan>
+      <tspan x="4" dy="4">Wolf) ergänzt die Perspektive.</tspan>
+    </text>
+
+    <text x="0" y="53.5" class="section">Reflexion</text>
+    <text x="0" y="59.5" class="content">
+      <tspan x="2" dy="0">Kurz besprechen: Was kam an? Welche Ebene/</tspan>
+      <tspan x="2" dy="4">Haltung wirkte? Welche Alternative wäre hilfreich?</tspan>
+    </text>
+
+    <text x="0" y="69.5" class="section">Nächste Runde</text>
+    <text x="0" y="75.5" class="content">
+      <tspan x="2" dy="0">Rollen/Karten wechseln – weiter geht’s.</tspan>
+    </text>
+
+    <line x1="0" y1="83" x2="61" y2="83" class="divider" />
+    <text x="30.5" y="90" text-anchor="middle" class="footer">Anleitung</text>
+  </g>
+</svg>

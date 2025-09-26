@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="945" viewBox="0 0 55.0 80.0">
+  <defs>
+    <style type="text/css">
+      .border { fill: none; stroke: #7f8c8d; stroke-width: 2.8; }
+      .title  { font: 700 4.0px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .subtitle { font: 600 2.6px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .content{ font: 400 2.0px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .section{ font: 600 2.8px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .num    { font-weight: 700; }
+      .footer { font: 600 4.2px "Inter", "Arial", "Helvetica", sans-serif; fill: #111; }
+      .divider{ stroke: #D6DCE6; stroke-width: 0.28; }
+      .muted  { fill: #E6EAF2; }
+    </style>
+  </defs>
+
+  
+  <rect x="1.4" y="1.4" width="52.2" height="77.2" rx="1.6" ry="1.6" class="border" />
+
+  
+  <g transform="translate(3.8,3.8) scale(0.77)">
+    
+    <text x="30.5" y="5.8" text-anchor="middle" class="title">🟦 Vier-Seiten-Modell</text>
+    <text x="30.5" y="10.2" text-anchor="middle" class="subtitle">(Schulz von Thun)</text>
+
+    <line x1="0" y1="13.5" x2="61" y2="13.5" class="divider" />
+
+    
+    <text x="0" y="20.5" class="section">Kernidee</text>
+    <text x="0" y="26.5" class="content">
+      <tspan x="2" dy="0">Jede Nachricht hat vier Seiten: &#9881;&#65039; Sache,</tspan>
+      <tspan x="2" dy="4"> &#10084;&#65039; Selbstoffenbarung, &#129309; Beziehung, &#128073; Appell.</tspan>
+      <tspan x="2" dy="4"> Empf&#228;nger*innen h&#246;ren mit unterschiedlichen &#8222;Ohren&#8220;.</tspan>
+    </text>
+
+    
+    <text x="0" y="41" class="section">So spielst du</text>
+
+    
+    <text x="2" y="47" class="content">
+      <tspan class="num">1.</tspan><tspan> Ziehe eine Senderkarte und spiele Satz 1.</tspan>
+    </text>
+
+    <text x="2" y="51.5" class="content">
+      <tspan class="num">2.</tspan><tspan> Empf&#228;nger*in zieht eine Empf&#228;ngerkarte</tspan>
+      <tspan x="4" dy="4">(&#9881;&#65039;, &#10084;&#65039;, &#129309;, &#128073;) und reagiert entsprechend.</tspan>
+    </text>
+
+    <text x="2" y="59" class="content">
+      <tspan class="num">3.</tspan><tspan> Gruppenvariante: Mehrere Empf&#228;nger*innen ziehen</tspan>
+      <tspan x="4" dy="4">verschiedene Karten und reagieren</tspan>
+      <tspan x="4" dy="4">nacheinander.</tspan>
+    </text>
+
+    <text x="2" y="71" class="content">
+      <tspan class="num">4.</tspan><tspan> Fun-Variante: Empf&#228;nger*in reagiert auf</tspan>
+      <tspan x="4" dy="4">verdeckte Karte &#8211; die Gruppe r&#228;t, welches</tspan>
+      <tspan x="4" dy="4">Ohr genutzt wurde.</tspan>
+    </text>
+
+    
+    <line x1="0" y1="83" x2="61" y2="83" class="divider" />
+    <text x="30.5" y="90" text-anchor="middle" class="footer">Anleitung</text>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="945" viewBox="0 0 55.0 80.0" version="1.1">
+  <defs>
+    <style><![CDATA[
+      .title  { font: 700 6.0px "Inter","Arial","Helvetica",sans-serif; fill:#111; }
+      .content{ font: 400 3.6px "Inter","Arial","Helvetica",sans-serif; fill:#111; }
+      .num    { font-weight:700; }
+      .footer { font: 600 4.2px "Inter","Arial","Helvetica",sans-serif; fill:#111; }
+      .divider{ stroke:#D6DCE6; stroke-width:0.3; }
+    ]]></style>
+  </defs>
+  <rect x="1.4" y="1.4" width="52.2" height="77.2"
+        rx="1.6" ry="1.6" fill="none" stroke="#2F5DA3" stroke-width="2.8" />
+  <g transform="translate(3.8,3.8) scale(0.77)">
+    <text x="4" y="7.0" class="title">🤝 Unterstützung</text>
+    <line x1="0" y1="13" x2="61.0" y2="13" class="divider"/>
+    <text x="1" y="22.0" class="content"><tspan class="num">1.</tspan></text>
+    <foreignObject x="4.8" y="18.759999999999998" width="56.2" height="200"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0;padding:0;font-family:Inter,Arial,Helvetica,sans-serif;font-size:3.6px;line-height:1.33;color:#111;"><div>Ich brauche Unterstützung.</div></body></foreignObject>
+    <text x="1" y="33.988" class="content"><tspan class="num">2.</tspan></text>
+    <foreignObject x="4.8" y="30.747999999999998" width="56.2" height="200"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0;padding:0;font-family:Inter,Arial,Helvetica,sans-serif;font-size:3.6px;line-height:1.33;color:#111;"><div>Drücke das Bedürfnis nach Unterstützung aus, ohne zu sprechen.</div></body></foreignObject>
+    <text x="1" y="50.763999999999996" class="content"><tspan class="num">3.</tspan></text>
+    <foreignObject x="4.8" y="47.523999999999994" width="56.2" height="200"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0;padding:0;font-family:Inter,Arial,Helvetica,sans-serif;font-size:3.6px;line-height:1.33;color:#111;"><div>Du lässt mich mit allem allein!</div></body></foreignObject>
+    <text x="1" y="60.751999999999995" class="content"><tspan class="num">4.</tspan></text>
+    <foreignObject x="4.8" y="57.51199999999999" width="55" height="200"><body xmlns="http://www.w3.org/1999/xhtml" style="margin:0;padding:0;font-family:Inter,Arial,Helvetica,sans-serif;font-size:3.6px;line-height:1.33;color:#111;"><div>Ich arbeite gerade allein an dem Projekt und fühle mich überfordert. Mir ist Unterstützung wichtig. Hilf mir bitte bei den Aufgaben.</div></body></foreignObject>
+    <line x1="0" y1="84.0" x2="61.0" y2="84.0" class="divider"/>
+    <text x="30.5" y="91.0" text-anchor="middle" class="footer">Sender</text>
+  </g>
+</svg>
