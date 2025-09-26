@@ -2,7 +2,7 @@
 
 ## *Kommunikation erleben – Missverständnisse verstehen – Theorien spielerisch anwenden*
 
-1. # **Zweck & Zielgruppe**
+# **Zweck & Zielgruppe**
 
 „Kapiert?\!“ ist ein Kartenset, das Kommunikation erlebbar macht und verschiedene Kommunikationsmodelle spielerisch vermittelt. Es eignet sich für:
 
@@ -12,7 +12,7 @@
 
 Ziel ist es, Missverständnisse zu erkennen, unterschiedliche Ausdrucksweisen auszuprobieren und Kommunikationsmodelle in der Praxis zu verstehen.
 
-2. # **Grundprinzip des Spiels**
+# **Grundprinzip des Spiels**
 
 Das Spiel basiert auf einem wiederholbaren Ablauf:
 
@@ -24,21 +24,21 @@ Das Spiel basiert auf einem wiederholbaren Ablauf:
 
 3. 
 
-4. # **Theorien im Hintergrund**
+# **Theorien im Hintergrund**
 
-   1. ## **Sender → Medium → Empfänger**
+## **Sender → Medium → Empfänger**
 
-   2. Jede Kommunikation lässt sich in drei Elemente zerlegen:
+Jede Kommunikation lässt sich in drei Elemente zerlegen:
 
-   3. 📨 **Sender\*in**: Die Person, die eine Botschaft übermittelt.  
+      📨 **Sender\*in**: Die Person, die eine Botschaft übermittelt.  
       📡 **Medium**: Der Kanal, verbal, nonverbal, schriftlich, …  
       👂 **Empfänger\*in**: Die Person, die hört, interpretiert und reagiert.
 
-   4. Missverständnisse entstehen, weil sich bei Sender\*in, Medium oder Empfänger\*in die ursprünglich intendierte Nachricht verändert. Unterschiedliche Medien sind unterschiedlich gut geeignet, um die Nachricht zu transportieren.
+Missverständnisse entstehen, weil sich bei Sender\*in, Medium oder Empfänger\*in die ursprünglich intendierte Nachricht verändert. Unterschiedliche Medien sind unterschiedlich gut geeignet, um die Nachricht zu transportieren.
 
-   5. ## [**Das Kommunikationsquadrat nach Friedemann Schulz von Thun**](https://www.schulz-von-thun.de/die-modelle/das-kommunikationsquadrat)
+## [**Das Kommunikationsquadrat nach Friedemann Schulz von Thun**](https://www.schulz-von-thun.de/die-modelle/das-kommunikationsquadrat)
 
-   6. **![][image1]**
+**![][image1]**
 
 **Kernidee**: Jede Nachricht enthält vier Seiten:
 
@@ -51,9 +51,9 @@ Wer kommuniziert hört und spricht die vier Seiten je nach persönlicher Verfass
 
 **Im Spiel:** Empfängerkarten repräsentieren diese vier Seiten.
 
-7. ## [**Gewaltfreie Kommunikation (GfK) nach Marshall Rosenberg**](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)
+## [**Gewaltfreie Kommunikation (GfK) nach Marshall Rosenberg**](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)
 
-   8. ![][image2]
+![][image2]
 
 **Kernidee:** Kommunikation gelingt, wenn Beobachtungen, Gefühle, Bedürfnisse und Bitten klar unterschieden werden.
 
@@ -73,9 +73,9 @@ Wer kommuniziert hört und spricht die vier Seiten je nach persönlicher Verfass
 
 **Im Spiel**: Karten enthalten sowohl Wolfs- als auch Giraffenaussagen. Haltungskarten (🎭) mit Giraffen- oder Wolfssymbol machen zusätzlich erfahrbar, wie unterschiedlich Botschaften gehört oder gesagt werden können.
 
-5. # **Spielvarianten**
+# **Spielvarianten**
 
-   1. ## **Kommunikationsquadrat (Schulz von Thun)**
+## **Kommunikationsquadrat (Schulz von Thun)**
 
 ### **Einzel**
 
@@ -89,7 +89,7 @@ Mehrere Empfänger\*innen ziehen unterschiedliche 👂 Empfängerkarten und reag
 
 Empfänger\*in reagiert verdeckt mit einer 👂 Empfängerkarte. Raten, mit welchem Ohr auf Satz 1 gehört wurde.
 
-2. ## **Gewaltfreie Kommunikation (GfK, Rosenberg)**
+## **Gewaltfreie Kommunikation (GfK, Rosenberg)**
 
 ### **Variante A – Sprache**
 
@@ -107,7 +107,7 @@ Sender\*in zieht eine 📨 Senderkarte und eine 🎭 Haltungskarte (🦒 oder �
 
 Mehrere Empfänger\*innen reagieren nacheinander auf Satz 3 und Satz 4 derselben Karte. 
 
-3. ## **Freestyle**
+## **Freestyle**
 
 ### **🎲 Freestyle-Challenges**
 
@@ -119,19 +119,19 @@ Die Haltungs- und 👂 Empfängerkarte werden in jeder Runde neu gezogen.
 
 Das Spiel endet wenn die Aufgabe erfüllt wurde
 
-4. ### **Medium**
+### **Medium**
 
 Sender–Medium–Empfänger bewusst machen: Sender\*in übermittelt dieselbe Botschaft verbal (Satz 1), nonverbal (Satz 2\) oder schriftlich. Gruppe reflektiert: Welches Medium transportiert die Nachricht am klarsten?
 
-5. ### **Sender\*innengefühle**
+### **Sender\*innengefühle**
 
-   6. Sender\*innengefühle variieren: Der Sender\*in spricht die Botschaft mit einer vorgegebenen Emotion (z. B. Wut, Angst, Freude, Traurigkeit, Neutralität). Reflexion: Wie beeinflusst das Gefühl die Wirkung?
+Sender\*innengefühle variieren: Der Sender\*in spricht die Botschaft mit einer vorgegebenen Emotion (z. B. Wut, Angst, Freude, Traurigkeit, Neutralität). Reflexion: Wie beeinflusst das Gefühl die Wirkung?
 
-   7. ### **Empfänger\*innengefühle**
+### **Empfänger\*innengefühle**
 
-   8. Empfänger\*innengefühle variieren: Der Empfänger\*in reagiert so, als wäre er selbst wütend, ängstlich, gleichgültig oder fröhlich. Die Gruppe kann versuchen zu erraten, welches Gefühl gespielt wurde.
+Empfänger\*innengefühle variieren: Der Empfänger\*in reagiert so, als wäre er selbst wütend, ängstlich, gleichgültig oder fröhlich. Die Gruppe kann versuchen zu erraten, welches Gefühl gespielt wurde.
 
-6. ## **Übersichtstabelle über die Varianten**
+## **Übersichtstabelle über die Varianten**
 
 | Variante | Karten | Besonderheit |
 | :---- | :---- | :---- |
@@ -147,9 +147,9 @@ Sender–Medium–Empfänger bewusst machen: Sender\*in übermittelt dieselbe Bo
 | Sender\*innengefühle | 📨 (Satz 1\) \+ Emotion | Wirkung verschiedener Gefühle |
 | Empfänger\*innengefühle | 📨 (Satz 1\) \+ 👂 \+ Emotion | Gruppe rät, welches Gefühl gespielt wurde |
 
-7. 
 
-8. # **Lizenzhinweis**
+
+# **Lizenzhinweis**
 
 Dieses Werk „Kapiert?\! – Kartenset“ ist lizenziert unter der Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (**CC BY-SA 4.0**).
 
@@ -161,13 +161,12 @@ Das bedeutet:
 
 Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
-9. 
+ 
+**Karten**
 
-10. **Karten**
+**📨 Senderkarten**
 
-    1. **📨 Senderkarten**
-
-       1. **🍞 Hunger**
+**🍞 Hunger**
 
 1. Ich habe Hunger.
 
@@ -177,7 +176,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Ich habe schon lange nichts mehr gegessen und fühle mich unkonzentriert. Ich brauche eine Kleinigkeit zu essen. Kannst du mir bitte einen Joghurt holen?
 
-   2. **💧 Durst**
+**💧 Durst**
 
 1. Ich habe Durst.
 
@@ -187,7 +186,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Mein Glas ist leer und ich bin durstig. Ich brauche etwas zu trinken. Kannst du mir bitte ein Glas Wasser holen?
 
-   3. **😴 Müdigkeit**
+ **😴 Müdigkeit**
 
 1. Ich bin müde.
 
@@ -197,7 +196,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Wir arbeiten seit drei Stunden ohne Pause. Ich bin total erschöpft und möchte kurz durchatmen. Lass uns bitte eine Pause machen.
 
-   4. **🌟 Anerkennung**
+ **🌟 Anerkennung**
 
 1. Ich möchte Anerkennung.
 
@@ -207,7 +206,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Ich habe die Aufgabe erledigt und bin gespannt, wie du sie findest. Ich wünsche mir Anerkennung. Kannst du mir bitte sagen, wie du meine Arbeit einschätzt?
 
-   5. **🤫 Ruhe**
+ **🤫 Ruhe**
 
 1. Ich brauche Ruhe.
 
@@ -217,7 +216,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Es ist hier sehr laut und ich fühle mich angespannt. Mir ist Ruhe wichtig. Stell bitte deine Musik leiser.
 
-   6. **🛡️ Sicherheit**
+ **🛡️ Sicherheit**
 
 1. Ich will mich sicher fühlen.
 
@@ -227,7 +226,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Es sind viele unbekannte Menschen hier, und ich fühle mich unwohl. Ich brauche Sicherheit. Kannst du mir bitte zur Seite stehen?
 
-   7. **🤗 Nähe**
+ **🤗 Nähe**
 
 1. Ich möchte Nähe.
 
@@ -237,7 +236,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Es ist lange her, dass wir etwas zusammen gemacht haben. Ich fühle mich traurig und brauche Nähe. Können wir bitte etwas gemeinsam unternehmen?
 
-   8. **🗝️ Autonomie**
+**🗝️ Autonomie**
 
 1. Ich möchte selbst entscheiden.
 
@@ -247,7 +246,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Du hast mir jeden Schritt vorgegeben und ich fühle mich eingeschränkt. Ich möchte selbst entscheiden. Kannst du mir bitte mehr Spielraum lassen?
 
-   9. **👂 Verständnis**
+**👂 Verständnis**
 
 1. Ich möchte verstanden werden.
 
@@ -257,7 +256,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Ich habe dir gerade meine Gedanken erklärt und ich bin unsicher, ob du verstehst, was ich meine. Kannst du bitte sagen, wie du es verstanden hast?
 
-   10. **👥 Zugehörigkeit**
+**👥 Zugehörigkeit**
 
 1. Ich möchte dazugehören.
 
@@ -267,7 +266,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Ihr habt euch ohne mich verabredet und ich fühle mich traurig. Mir wäre es wichtig, dazu zu gehören. Bezieht mich bitte in eure Runde ein.
 
-   11. **🎉 Freude**
+**🎉 Freude**
 
 1. Ich möchte Freude haben.
 
@@ -277,7 +276,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Es war heute alles sehr ernst. Ich fühle mich angespannt. Ich wünsche mir Leichtigkeit. Wollen wir etwas machen, das uns Spaß bringt?
 
-   12. **🔍 Klarheit**
+**🔍 Klarheit**
 
 1. Ich brauche Klarheit.
 
@@ -287,7 +286,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Das sind gerade viele Informationen auf einmal und ich fühle mich überfordert. Ich brauche Übersicht. Kannst du mir das bitte noch einmal erklären?
 
-   13. **🏃 Bewegung**
+**🏃 Bewegung**
 
 1. Ich will mich bewegen.
 
@@ -297,7 +296,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Wir sitzen seit zwei Stunden und ich fühle mich unruhig. Mir würde Bewegung gut tun. Lass uns einen Kaffee holen gehen.
 
-   14. **🤝 Unterstützung**
+**🤝 Unterstützung**
 
 1. Ich brauche Unterstützung.
 
@@ -307,7 +306,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Ich arbeite gerade allein an dem Projekt und fühle mich überfordert. Mir ist Unterstützung wichtig. Hilf mir bitte bei den Aufgaben.
 
-   15. **🎨 Kreativität**
+**🎨 Kreativität**
 
 1. Ich möchte kreativ sein.
 
@@ -317,7 +316,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Alles läuft hier sehr festgelegt ab. Ich fühle mich unzufrieden. Ich wünsche mir mehr Gestaltungsspielraum. Können wir etwas Neues ausprobieren?
 
-   16. **📐 Ordnung**
+**📐 Ordnung**
 
 1. Ich möchte Ordnung haben.
 
@@ -327,7 +326,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Der Raum ist sehr unaufgeräumt. Ich fühle mich unruhig. Ich wünsche mir mehr Struktur. Können wir bitte Ordnung schaffen?
 
-   17. **🕊️ Freiheit**
+**🕊️ Freiheit**
 
 1. Ich will frei sein.
 
@@ -337,7 +336,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Du hast mir Vorgaben gemacht und ich fühle mich unwohl. Mir wäre Freiheit wichtig. Lass mich bitte meinen Weg selbst wählen.
 
-   18. **🔒 Vertrauen**
+**🔒 Vertrauen**
 
 1. Ich möchte vertrauen können.
 
@@ -347,7 +346,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Du bist nicht pünktlich gekommen und ich bin verärgert. Mir ist Vertrauen wichtig. Könntest du bitte morgen pünktlich kommen.
 
-   19. **🧭 Sinn**
+**🧭 Sinn**
 
 1. Ich möchte Sinn erleben.
 
@@ -357,7 +356,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Wir wiederholen diese Aufgabe zum dritten Mal und ich fühle mich frustriert. Mir ist Sinn wichtig. Erklär mir bitte, wozu das nötig ist.
 
-   20. **🌿 Entspannung**
+**🌿 Entspannung**
 
 1. Ich brauche Entspannung.
 
@@ -367,7 +366,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 4. Alles war heute sehr hektisch. Ich fühle mich überreizt. Ich brauche Entspannung. Gehst du mit mir in die Sauna?
 
-   2. **👂 Empfängerkarten**
+**👂 Empfängerkarten**
 
 **⚙️ Sachohr**
 
@@ -385,7 +384,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 → Du hörst, was der andere von dir will.
 
-3. **🎭 Haltungskarten**
+**🎭 Haltungskarten**
 
 **🦒 Giraffenhaltung - 2 Karten**
 
@@ -397,7 +396,7 @@ Mehr Informationen: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 → 🎙️ **Sender\*in:** „Sprich kritisch, wertend oder vorwurfsvoll.“  
 → 👂 **Empfänger\*in:** „Höre so, als ob du dich angegriffen fühlst, und reagiere aus der Verteidigung.“
 
-4. **🎲 Freestyle-Aufgaben (Alternative Senderkarten)**
+**🎲 Freestyle-Aufgaben (Alternative Senderkarten)**
 
 **🍞 Brot kaufen**
 
