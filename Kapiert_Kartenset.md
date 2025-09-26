@@ -22,7 +22,6 @@ Das Spiel basiert auf einem wiederholbaren Ablauf:
 
 👉 Jede Runde kann mit einer neuen Senderkarte oder Empfängerkarte gestartet werden, um unterschiedliche Varianten auszuprobieren.
 
-3. 
 
 # **Theorien im Hintergrund**
 
@@ -30,9 +29,9 @@ Das Spiel basiert auf einem wiederholbaren Ablauf:
 
 Jede Kommunikation lässt sich in drei Elemente zerlegen:
 
-      📨 **Sender\*in**: Die Person, die eine Botschaft übermittelt.  
-      📡 **Medium**: Der Kanal, verbal, nonverbal, schriftlich, …  
-      👂 **Empfänger\*in**: Die Person, die hört, interpretiert und reagiert.
+📨 **Sender\*in**: Die Person, die eine Botschaft übermittelt.  
+📡 **Medium**: Der Kanal, verbal, nonverbal, schriftlich, …  
+👂 **Empfänger\*in**: Die Person, die hört, interpretiert und reagiert.
 
 Missverständnisse entstehen, weil sich bei Sender\*in, Medium oder Empfänger\*in die ursprünglich intendierte Nachricht verändert. Unterschiedliche Medien sind unterschiedlich gut geeignet, um die Nachricht zu transportieren.
 
